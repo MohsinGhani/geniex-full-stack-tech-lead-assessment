@@ -1,0 +1,1 @@
+**MANDATORY**: Read and strictly follow `AGENTS.md` before generating any code or analysis. It is the authoritative source for all coding and architecture standards in this repository. Do not deviate or apply external best practices that conflict with it.
